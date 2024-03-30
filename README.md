@@ -1,6 +1,6 @@
 ### Hi there 👋, I am Piyush 😁
 Hello, I am an engineering student pursuing a bachelor’s degree in Electrical Engineering at IIT Dhanbad. 
-- 🔭 I’m currently learning about DevoOps
+- 🔭 I’m currently learning about DevOps
 - 💬 Brainstorm with me over tech, business. 
 - 📫 How to reach me: piyushraj92739@gmail.com
 
