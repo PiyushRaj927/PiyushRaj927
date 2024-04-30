@@ -1,9 +1,12 @@
 ### Hi there 👋, I am Piyush 😁
 Hello, I am an engineering student pursuing a bachelor’s degree in Electrical Engineering at IIT Dhanbad. 
-- 🔭 I’m currently learning about DevOps
-- 💬 Brainstorm with me over tech, business. 
+- 🔭 I’m currently learning about DevOps, Distributed systems
+- 💬 Brainstorm with me over tech, business, or anything
 - 📫 How to reach me: piyushraj92739@gmail.com
+- Online Profiles
+  - https://salsa.debian.org/d3bug
 
+  
 **Languages and Tools:** 
 
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
