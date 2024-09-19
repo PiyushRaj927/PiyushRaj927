@@ -3,7 +3,8 @@ Hello, I am an engineering student pursuing a bachelor’s degree in Electrical 
 - 🔭 I’m currently learning about DevOps, Distributed systems
 - 💬 Brainstorm with me over tech, business, or anything
 - 📫 How to reach me: piyushraj92739@gmail.com
-- Online Profiles
+- Also find me at
+  - https://gist.github.com/PiyushRaj927
   - https://salsa.debian.org/d3bug
 
   
